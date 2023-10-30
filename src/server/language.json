@@ -389,7 +389,7 @@
 			"Volume": "объем",
 			"WARNING: Force end adjustment on node {0} failed: insufficient RSSI range.": "ВНИМАНИЕ: Конечная корректировка узла {0} не удалась: разница RSSI недостаточна.",
 			"WARNING: Force end on node {0} required increase of EnterAt. EnterAt may be improperly calibrated.": "ВНИМАНИЕ: Конечные корректировки для узла {0} требуют увеличения EnterAT. EnterAr, вероятно, установлен неправильно.",
-			"Whoop Sprint": "Ууп-спринт",
+			"Whoop Sprint": "Вуп-спринт",
 			"Win Condition": "Условие победы",
 			"Winner is": "И победителем становится",
 			"Wipe": "Вытирать"		
